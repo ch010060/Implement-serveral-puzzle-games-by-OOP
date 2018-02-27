@@ -1,9 +1,14 @@
 Implement serveral puzzle games by OOP
 
-##1. <Z>¥_Áú½ò¦a¹p¢w«öZª±½ò¦a¹p
-##2. <X>­^°ê¯«¯µ¥¨¥Û°}¢w«öXª±¼Æ¦r¤è¶ô
-##3. <S>¬ü°ê¯q´¼¼Æ¿W¢w«öSª±¼Æ¿W
-##4. <B>¤¦³Á½ì¨ý»«ªG¢w«öBª±»«ªG
-##5. <C>¥xÆW²×·¥±K½X¢w«öCª±²×·¥±K½X
-##6. <M>®J¤Îª÷¦r¶ð°g®c¢w«öMª±¨«°g®c
+##1.åŒ—éŸ“è¸©åœ°é›·â”€æŒ‰ZçŽ©è¸©åœ°é›·
+
+##2.è‹±åœ‹ç¥žç§˜å·¨çŸ³é™£â”€æŒ‰XçŽ©æ•¸å­—æ–¹å¡Š
+
+##3.ç¾Žåœ‹ç›Šæ™ºæ•¸ç¨â”€æŒ‰SçŽ©æ•¸ç¨
+
+##4.ä¸¹éº¥è¶£å‘³è³“æžœâ”€æŒ‰BçŽ©è³“æžœ
+
+##5.å°ç£çµ‚æ¥µå¯†ç¢¼â”€æŒ‰CçŽ©çµ‚æ¥µå¯†ç¢¼
+
+##6.åŸƒåŠé‡‘å­—å¡”è¿·å®®â”€æŒ‰MçŽ©èµ°è¿·å®®
 
